@@ -1,5 +1,14 @@
 # @backstage/core-api
 
+## 0.2.14
+
+### Patch Changes
+
+- d88dd219e: Internal refactor to allow for future package splits. As part of this `ApiRef`s are now identified by their ID rather than their reference.
+- c8b54c370: Added new Docs Icon to Core Icons
+- Updated dependencies [0434853a5]
+  - @backstage/config@0.1.4
+
 ## 0.2.13
 
 ### Patch Changes
